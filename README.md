@@ -1,13 +1,13 @@
 optimal band selection
 
-%this program is written by hadi farhadi.
-%this program carries out one of several decision making in the name of
-%electre
-%this program is able to evaluate several criteria for several options
+%this program carries out one of several decision making in the name of electre
 
-%how to run the program?
+this program is able to evaluate several criteria for several options
 
-%inputs from Excel file:
+
+how to run the program?
+
+inputs from Excel file:
      
     %decision matrix
     %weight matrix
